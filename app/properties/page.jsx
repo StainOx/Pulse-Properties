@@ -20,7 +20,9 @@ const PropertiesPage = async () => {
                 ) }
             </div>
         </section>
-    );
+);
+        
+    
 }
  
 export default PropertiesPage;
